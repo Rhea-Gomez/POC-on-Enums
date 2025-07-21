@@ -1,0 +1,14 @@
+D:\Training\Assignments\Enums\Enums\bin\Debug\net8.0\Enums.exe
+D:\Training\Assignments\Enums\Enums\bin\Debug\net8.0\Enums.deps.json
+D:\Training\Assignments\Enums\Enums\bin\Debug\net8.0\Enums.runtimeconfig.json
+D:\Training\Assignments\Enums\Enums\bin\Debug\net8.0\Enums.dll
+D:\Training\Assignments\Enums\Enums\bin\Debug\net8.0\Enums.pdb
+D:\Training\Assignments\Enums\Enums\obj\Debug\net8.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Assignments\Enums\Enums\obj\Debug\net8.0\Enums.AssemblyInfoInputs.cache
+D:\Training\Assignments\Enums\Enums\obj\Debug\net8.0\Enums.AssemblyInfo.cs
+D:\Training\Assignments\Enums\Enums\obj\Debug\net8.0\Enums.csproj.CoreCompileInputs.cache
+D:\Training\Assignments\Enums\Enums\obj\Debug\net8.0\Enums.dll
+D:\Training\Assignments\Enums\Enums\obj\Debug\net8.0\refint\Enums.dll
+D:\Training\Assignments\Enums\Enums\obj\Debug\net8.0\Enums.pdb
+D:\Training\Assignments\Enums\Enums\obj\Debug\net8.0\Enums.genruntimeconfig.cache
+D:\Training\Assignments\Enums\Enums\obj\Debug\net8.0\ref\Enums.dll
